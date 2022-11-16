@@ -81,6 +81,7 @@ body {
   font-weight: 500;
   font-family: var(--fraunces);
   margin-bottom: -0.5rem;
+  line-height: 2.4rem;
 }
 
 .text {
